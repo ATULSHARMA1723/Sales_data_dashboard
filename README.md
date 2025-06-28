@@ -1,4 +1,4 @@
-# Sales_data_dashboard_project
+
 # Project Title: Excel Sales Dashboard – Multi-City Performance Tracker
 
 # Description:
