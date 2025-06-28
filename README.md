@@ -1,14 +1,14 @@
 # Sales_data_dashboard_project
-#Project Title: Excel Sales Dashboard – Multi-City Performance Tracker
+# Project Title: Excel Sales Dashboard – Multi-City Performance Tracker
 
-#Description:
+# Description:
 
 This Excel dashboard provides a consolidated and interactive view of sales performance across eight cities: Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, and Surat. It enables quick analysis of sales trends, executive performance, and target achievement.
 
-#Purpose:
+# Purpose:
 To provide a comprehensive overview of sales performance, highlight top and low performers, and support informed decision-making through clean and interactive visuals.
 
-#Key Features:
+# Key Features:
 
 City-wise Dashboards: Easy navigation through buttons for viewing individual city data.
 
@@ -20,7 +20,7 @@ Target hit percentage
 
 Deviation from target
 
-#Visual Insights:
+# Visual Insights:
 
 Horizontal bar charts for total sales
 
@@ -28,7 +28,7 @@ Pie chart for balanced KPI distribution
 
 Line chart showing gaps from targets
 
-#Tools Used:
+# Tools Used:
 
 Excel formulas & functions
 
@@ -38,7 +38,7 @@ Conditional Formatting
 
 Slicers and Interactive Charts
 
-#Outcome:
+# Outcome:
 
 Improved clarity in tracking sales performance across regions
 
